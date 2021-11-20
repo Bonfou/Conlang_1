@@ -6,7 +6,7 @@ Same phonemes as Latin, with no aspirated consonants, the addition of the voiced
 
 Particles can determine sentence tone, word importance, and word role.
 
-V, VC, CV, and VCV syllables (no closed consonant syllables).
+V, VC, CV, and VCV syllables.
 
 OSV for informal, SOV for formal.
 
